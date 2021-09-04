@@ -1,3 +1,7 @@
+## Description
+
+Hello, My name is Muhammad Ridwan. I'm new in web developiment world. And this is my project about my Web portfolio. In this project i use React js for library js, Chakra UI and Styled Component for styling. I hope you can give me feedback about my project and guide me to learn about web develpment
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
